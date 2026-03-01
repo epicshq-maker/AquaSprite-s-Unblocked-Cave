@@ -37,7 +37,7 @@ export default function App() {
               <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center">
                 <Gamepad2 className="w-5 h-5 text-white" />
               </div>
-              <span className="text-xl font-bold tracking-tight font-display">NEXUS<span className="text-indigo-500">GAMES</span></span>
+              <span className="text-xl font-bold tracking-tight font-display">AQUA<span className="text-indigo-500">SPRITE</span></span>
             </div>
 
             <div className="flex-1 max-w-md mx-8 hidden sm:block">
