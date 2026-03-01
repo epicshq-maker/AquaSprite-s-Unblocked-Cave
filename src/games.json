@@ -1,44 +1,114 @@
 [
   {
-    "id": "2048",
-    "title": "2048",
-    "description": "Join the numbers and get to the 2048 tile!",
-    "url": "https://play2048.co/",
-    "thumbnail": "https://picsum.photos/seed/2048/400/300"
+    "id": "papas-wingeria",
+    "title": "Papa's Wingeria",
+    "description": "Serve up the best wings in town in this classic Papa Louie restaurant game.",
+    "url": "https://ubgwtf.gitlab.io/papas-wingeria/",
+    "thumbnail": "https://picsum.photos/seed/wingeria/400/300"
   },
   {
-    "id": "hextris",
-    "title": "Hextris",
-    "description": "Fast-paced puzzle game inspired by Tetris.",
-    "url": "https://hextris.io/",
-    "thumbnail": "https://picsum.photos/seed/hextris/400/300"
+    "id": "ampler-launcher",
+    "title": "Ampler Launcher",
+    "description": "A collection of various web games and utilities.",
+    "url": "https://irv77.github.io/AmplerLauncher/",
+    "thumbnail": "https://picsum.photos/seed/ampler/400/300"
   },
   {
-    "id": "flappy-bird",
-    "title": "Flappy Bird",
-    "description": "The classic bird-flapping challenge.",
-    "url": "https://flappybird.io/",
-    "thumbnail": "https://picsum.photos/seed/flappy/400/300"
+    "id": "raft-wars",
+    "title": "Raft Wars",
+    "description": "Defend your treasure in this classic turn-based shooting game.",
+    "url": "https://5dd23a0d-015f-11ea-ad56-9cb6d0d995f7.gdn.poki.com/888f5ca3-2375-438c-a716-fba9d4f05061/index.html?country=SI&ccpaApplies=0&url_referrer=https%3A%2F%2Fraft-wars.com%2F&game_id=5dd23a0d-015f-11ea-ad56-9cb6d0d995f7&game_version_id=888f5ca3-2375-438c-a716-fba9d4f05061&inspector=0",
+    "thumbnail": "https://picsum.photos/seed/raftwars/400/300"
   },
   {
-    "id": "slope",
-    "title": "Slope",
-    "description": "Fast-paced ball rolling game.",
-    "url": "https://slopegame.online/",
-    "thumbnail": "https://picsum.photos/seed/slope/400/300"
+    "id": "running-fred",
+    "title": "Running Fred",
+    "description": "Help Fred run for his life in this gory and fun endless runner.",
+    "url": "https://htmlxm.github.io/h6/running-fred/",
+    "thumbnail": "https://picsum.photos/seed/runningfred/400/300"
   },
   {
-    "id": "snake",
-    "title": "Snake",
-    "description": "The classic arcade snake game.",
-    "url": "https://www.google.com/logos/2010/pacman10-i.html",
-    "thumbnail": "https://picsum.photos/seed/snake/400/300"
+    "id": "super-mario-64",
+    "title": "Super Mario 64",
+    "description": "The legendary 3D platformer, now playable in your browser.",
+    "url": "https://23azostore.github.io/s9/super-mario-64",
+    "thumbnail": "https://picsum.photos/seed/mario64/400/300"
   },
   {
-    "id": "tetris",
-    "title": "Tetris",
-    "description": "The world's most popular puzzle game.",
-    "url": "https://tetris.com/play-tetris",
-    "thumbnail": "https://picsum.photos/seed/tetris/400/300"
+    "id": "papas-taco-mia",
+    "title": "Papa's Taco Mia!",
+    "description": "Master the art of taco making in this classic Papa Louie restaurant game.",
+    "url": "https://ubgwtf.gitlab.io/papas-tacomia/",
+    "thumbnail": "https://picsum.photos/seed/tacomia/400/300"
+  },
+  {
+    "id": "911-cannibal",
+    "title": "911: Cannibal",
+    "description": "A terrifying horror game where you must escape from a cannibal's house.",
+    "url": "https://911-cannibal.game-files.crazygames.com/unity/unity2020/911-cannibal.html?v=1.351",
+    "thumbnail": "https://picsum.photos/seed/cannibal/400/300"
+  },
+  {
+    "id": "papas-bakeria",
+    "title": "Papa's Bakeria",
+    "description": "Bake delicious pies and serve hungry customers in this classic Papa Louie game.",
+    "url": "https://papas-bakeria.game-files.crazygames.com/ruffle/papas-bakeria/3/game.html?v=1.351",
+    "thumbnail": "https://picsum.photos/seed/bakeria/400/300"
+  },
+  {
+    "id": "dig-out-of-prison",
+    "title": "Dig Out of Prison",
+    "description": "Dig your way to freedom in this challenging prison escape game.",
+    "url": "https://dig-out-of-prison.game-files.crazygames.com/unity/unity2020/dig-out-of-prison.html?v=1.351",
+    "thumbnail": "https://picsum.photos/seed/prison/400/300"
+  },
+  {
+    "id": "veck-io",
+    "title": "Veck.io",
+    "description": "A fast-paced multiplayer space shooter game.",
+    "url": "https://veck.io/?cg=true&auto_play=true",
+    "thumbnail": "https://picsum.photos/seed/veck/400/300"
+  },
+  {
+    "id": "escape-waves",
+    "title": "Escape Waves",
+    "description": "A thrilling game where you must navigate through waves to escape.",
+    "url": "https://escapewaves.io/?crazygames=true",
+    "thumbnail": "https://picsum.photos/seed/escapewaves/400/300"
+  },
+  {
+    "id": "kirka-io",
+    "title": "Kirka.io",
+    "description": "A fast-paced voxel-style FPS game.",
+    "url": "https://kirka.io/",
+    "thumbnail": "https://picsum.photos/seed/kirka/400/300"
+  },
+  {
+    "id": "kour-io",
+    "title": "Kour.io",
+    "description": "A multiplayer FPS game with various modes and weapons.",
+    "url": "https://kour.io/?cg=true",
+    "thumbnail": "https://picsum.photos/seed/kour/400/300"
+  },
+  {
+    "id": "fragen",
+    "title": "Fragen",
+    "description": "A mysterious and atmospheric game that challenges your perception.",
+    "url": "https://fragen.game-files.crazygames.com/unity/unity2020/fragen.html?v=1.351",
+    "thumbnail": "https://picsum.photos/seed/fragen/400/300"
+  },
+  {
+    "id": "supermarket-together",
+    "title": "Supermarket Together",
+    "description": "A cooperative multiplayer simulator where you and your friends run your very own store. Stock shelves, organize deliveries, assist customers, and expand your supermarket into a bustling retail empire.",
+    "url": "https://games.crazygames.com/en_US/supermarket-together/index.html?v=1.351",
+    "thumbnail": "https://picsum.photos/seed/supermarket/400/300"
+  },
+  {
+    "id": "rocket-goal",
+    "title": "Rocket Goal",
+    "description": "A high-octane car soccer game where you use rocket-powered vehicles to score goals.",
+    "url": "https://rocketgoal.io/?sdk=crazy",
+    "thumbnail": "https://picsum.photos/seed/rocketgoal/400/300"
   }
 ]
