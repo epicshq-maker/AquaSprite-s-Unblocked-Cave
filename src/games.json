@@ -110,5 +110,40 @@
     "description": "A high-octane car soccer game where you use rocket-powered vehicles to score goals.",
     "url": "https://rocketgoal.io/?sdk=crazy",
     "thumbnail": "https://picsum.photos/seed/rocketgoal/400/300"
+  },
+  {
+    "id": "shell-shockers",
+    "title": "Shell Shockers",
+    "description": "The world's most popular egg-based multiplayer shooter. Crack some shells!",
+    "url": "https://shellshock.io/",
+    "thumbnail": "https://picsum.photos/seed/shellshock/400/300"
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "The classic addictive puzzle game. Join the numbers to get to the 2048 tile!",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048game/400/300"
+  },
+  {
+    "id": "idle-breakout",
+    "title": "Idle Breakout",
+    "description": "A modern take on the classic breakout game with idle mechanics. Perfect for school!",
+    "url": "https://kdata1.com/2020/05/idle-breakout/",
+    "thumbnail": "https://picsum.photos/seed/idlebreakout/400/300"
+  },
+  {
+    "id": "fireboy-watergirl",
+    "title": "Fireboy and Watergirl",
+    "description": "Work together with a friend to navigate through the Forest Temple puzzles.",
+    "url": "https://games.crazygames.com/en_US/fireboy-and-watergirl-1-forest-temple/index.html",
+    "thumbnail": "https://picsum.photos/seed/fireboy/400/300"
+  },
+  {
+    "id": "papas-freezeria",
+    "title": "Papa's Freezeria",
+    "description": "Manage a sundae shop on Calypso Island. Serve up delicious frozen treats!",
+    "url": "https://papas-freezeria.game-files.crazygames.com/ruffle/papas-freezeria/1/game.html",
+    "thumbnail": "https://picsum.photos/seed/freezeria/400/300"
   }
 ]

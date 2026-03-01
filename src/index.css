@@ -8,7 +8,7 @@
 
 @layer base {
   body {
-    @apply bg-zinc-950 text-zinc-100 antialiased;
+    @apply bg-emerald-950 text-emerald-50 antialiased;
   }
 }
 
@@ -20,7 +20,7 @@
   content: "";
   position: absolute;
   inset: -1px;
-  background: linear-gradient(45deg, transparent, rgba(255, 255, 255, 0.1), transparent);
+  background: linear-gradient(45deg, transparent, rgba(16, 185, 129, 0.2), transparent);
   z-index: -1;
   border-radius: inherit;
   opacity: 0;
@@ -29,4 +29,8 @@
 
 .game-card-glow:hover::after {
   opacity: 1;
+}
+
+.waterflow-bg {
+  background: linear-gradient(180deg, #064e3b 0%, #022c22 100%);
 }
