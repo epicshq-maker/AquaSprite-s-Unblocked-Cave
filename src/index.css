@@ -34,3 +34,15 @@
 .waterflow-bg {
   background: linear-gradient(180deg, #064e3b 0%, #022c22 100%);
 }
+
+@keyframes waterFlow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.animate-water {
+  background: linear-gradient(-45deg, #064e3b, #059669, #10b981, #064e3b);
+  background-size: 400% 400%;
+  animation: waterFlow 15s ease infinite;
+}

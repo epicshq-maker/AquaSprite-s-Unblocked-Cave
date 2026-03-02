@@ -1,149 +1,770 @@
 [
   {
-    "id": "papas-wingeria",
-    "title": "Papa's Wingeria",
-    "description": "Serve up the best wings in town in this classic Papa Louie restaurant game.",
-    "url": "https://ubgwtf.gitlab.io/papas-wingeria/",
-    "thumbnail": "https://picsum.photos/seed/wingeria/400/300"
+    "id": "cavegame-io",
+    "title": "Cavegame.io",
+    "description": "A Minecraft-inspired survival game in the cave.",
+    "url": "https://cavegame.io/",
+    "thumbnail": "https://images.crazygames.com/cavegame-io/20210211135439/cavegame-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
   },
   {
-    "id": "ampler-launcher",
-    "title": "Ampler Launcher",
-    "description": "A collection of various web games and utilities.",
-    "url": "https://irv77.github.io/AmplerLauncher/",
-    "thumbnail": "https://picsum.photos/seed/ampler/400/300"
-  },
-  {
-    "id": "raft-wars",
-    "title": "Raft Wars",
-    "description": "Defend your treasure in this classic turn-based shooting game.",
-    "url": "https://5dd23a0d-015f-11ea-ad56-9cb6d0d995f7.gdn.poki.com/888f5ca3-2375-438c-a716-fba9d4f05061/index.html?country=SI&ccpaApplies=0&url_referrer=https%3A%2F%2Fraft-wars.com%2F&game_id=5dd23a0d-015f-11ea-ad56-9cb6d0d995f7&game_version_id=888f5ca3-2375-438c-a716-fba9d4f05061&inspector=0",
-    "thumbnail": "https://picsum.photos/seed/raftwars/400/300"
-  },
-  {
-    "id": "running-fred",
-    "title": "Running Fred",
-    "description": "Help Fred run for his life in this gory and fun endless runner.",
-    "url": "https://htmlxm.github.io/h6/running-fred/",
-    "thumbnail": "https://picsum.photos/seed/runningfred/400/300"
-  },
-  {
-    "id": "super-mario-64",
-    "title": "Super Mario 64",
-    "description": "The legendary 3D platformer, now playable in your browser.",
-    "url": "https://23azostore.github.io/s9/super-mario-64",
-    "thumbnail": "https://picsum.photos/seed/mario64/400/300"
-  },
-  {
-    "id": "papas-taco-mia",
-    "title": "Papa's Taco Mia!",
-    "description": "Master the art of taco making in this classic Papa Louie restaurant game.",
-    "url": "https://ubgwtf.gitlab.io/papas-tacomia/",
-    "thumbnail": "https://picsum.photos/seed/tacomia/400/300"
-  },
-  {
-    "id": "911-cannibal",
-    "title": "911: Cannibal",
-    "description": "A terrifying horror game where you must escape from a cannibal's house.",
-    "url": "https://911-cannibal.game-files.crazygames.com/unity/unity2020/911-cannibal.html?v=1.351",
-    "thumbnail": "https://picsum.photos/seed/cannibal/400/300"
-  },
-  {
-    "id": "papas-bakeria",
-    "title": "Papa's Bakeria",
-    "description": "Bake delicious pies and serve hungry customers in this classic Papa Louie game.",
-    "url": "https://papas-bakeria.game-files.crazygames.com/ruffle/papas-bakeria/3/game.html?v=1.351",
-    "thumbnail": "https://picsum.photos/seed/bakeria/400/300"
-  },
-  {
-    "id": "dig-out-of-prison",
-    "title": "Dig Out of Prison",
-    "description": "Dig your way to freedom in this challenging prison escape game.",
-    "url": "https://dig-out-of-prison.game-files.crazygames.com/unity/unity2020/dig-out-of-prison.html?v=1.351",
-    "thumbnail": "https://picsum.photos/seed/prison/400/300"
-  },
-  {
-    "id": "veck-io",
-    "title": "Veck.io",
-    "description": "A fast-paced multiplayer space shooter game.",
-    "url": "https://veck.io/?cg=true&auto_play=true",
-    "thumbnail": "https://picsum.photos/seed/veck/400/300"
-  },
-  {
-    "id": "escape-waves",
-    "title": "Escape Waves",
-    "description": "A thrilling game where you must navigate through waves to escape.",
-    "url": "https://escapewaves.io/?crazygames=true",
-    "thumbnail": "https://picsum.photos/seed/escapewaves/400/300"
-  },
-  {
-    "id": "kirka-io",
-    "title": "Kirka.io",
-    "description": "A fast-paced voxel-style FPS game.",
-    "url": "https://kirka.io/",
-    "thumbnail": "https://picsum.photos/seed/kirka/400/300"
-  },
-  {
-    "id": "kour-io",
-    "title": "Kour.io",
-    "description": "A multiplayer FPS game with various modes and weapons.",
-    "url": "https://kour.io/?cg=true",
-    "thumbnail": "https://picsum.photos/seed/kour/400/300"
-  },
-  {
-    "id": "fragen",
-    "title": "Fragen",
-    "description": "A mysterious and atmospheric game that challenges your perception.",
-    "url": "https://fragen.game-files.crazygames.com/unity/unity2020/fragen.html?v=1.351",
-    "thumbnail": "https://picsum.photos/seed/fragen/400/300"
-  },
-  {
-    "id": "supermarket-together",
-    "title": "Supermarket Together",
-    "description": "A cooperative multiplayer simulator where you and your friends run your very own store. Stock shelves, organize deliveries, assist customers, and expand your supermarket into a bustling retail empire.",
-    "url": "https://games.crazygames.com/en_US/supermarket-together/index.html?v=1.351",
-    "thumbnail": "https://picsum.photos/seed/supermarket/400/300"
-  },
-  {
-    "id": "rocket-goal",
-    "title": "Rocket Goal",
-    "description": "A high-octane car soccer game where you use rocket-powered vehicles to score goals.",
-    "url": "https://rocketgoal.io/?sdk=crazy",
-    "thumbnail": "https://picsum.photos/seed/rocketgoal/400/300"
-  },
-  {
-    "id": "shell-shockers",
-    "title": "Shell Shockers",
-    "description": "The world's most popular egg-based multiplayer shooter. Crack some shells!",
-    "url": "https://shellshock.io/",
-    "thumbnail": "https://picsum.photos/seed/shellshock/400/300"
-  },
-  {
-    "id": "2048",
-    "title": "2048",
-    "description": "The classic addictive puzzle game. Join the numbers to get to the 2048 tile!",
-    "url": "https://play2048.co/",
-    "thumbnail": "https://picsum.photos/seed/2048game/400/300"
-  },
-  {
-    "id": "idle-breakout",
-    "title": "Idle Breakout",
-    "description": "A modern take on the classic breakout game with idle mechanics. Perfect for school!",
-    "url": "https://kdata1.com/2020/05/idle-breakout/",
-    "thumbnail": "https://picsum.photos/seed/idlebreakout/400/300"
-  },
-  {
-    "id": "fireboy-watergirl",
-    "title": "Fireboy and Watergirl",
-    "description": "Work together with a friend to navigate through the Forest Temple puzzles.",
-    "url": "https://games.crazygames.com/en_US/fireboy-and-watergirl-1-forest-temple/index.html",
-    "thumbnail": "https://picsum.photos/seed/fireboy/400/300"
+    "id": "fireboy-watergirl-logo",
+    "title": "Fireboy & Watergirl",
+    "description": "The classic co-op puzzle platformer.",
+    "url": "https://fireboy-watergirl.io/",
+    "thumbnail": "https://images.crazygames.com/fireboy-and-watergirl-the-forest-temple/20210211135439/fireboy-and-watergirl-the-forest-temple-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Platformer"
   },
   {
     "id": "papas-freezeria",
     "title": "Papa's Freezeria",
-    "description": "Manage a sundae shop on Calypso Island. Serve up delicious frozen treats!",
-    "url": "https://papas-freezeria.game-files.crazygames.com/ruffle/papas-freezeria/1/game.html",
-    "thumbnail": "https://picsum.photos/seed/freezeria/400/300"
+    "description": "Serve up frozen treats in this classic Papa Louie game.",
+    "url": "https://papas-freezeria.io/",
+    "thumbnail": "https://images.crazygames.com/papas-freezeria/20210211135439/papas-freezeria-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Idle"
+  },
+  {
+    "id": "tunnel-rush-green",
+    "title": "Tunnel Rush",
+    "description": "A fast-paced 3D tunnel runner.",
+    "url": "https://tunnel-rush.io/",
+    "thumbnail": "https://images.crazygames.com/tunnel-rush/20210211135439/tunnel-rush-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Racing"
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "description": "The ultimate retro-style American football game.",
+    "url": "https://retro-bowl.io/",
+    "thumbnail": "https://images.crazygames.com/retro-bowl/20210211135439/retro-bowl-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Sports"
+  },
+  {
+    "id": "ovo",
+    "title": "OvO",
+    "description": "A fast-paced parkour platformer.",
+    "url": "https://ovo-game.io/",
+    "thumbnail": "https://images.crazygames.com/ovo/20210211135439/ovo-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Platformer"
+  },
+  {
+    "id": "moto-x3m",
+    "title": "Moto X3M",
+    "description": "The ultimate bike racing game with challenging obstacle courses.",
+    "url": "https://moto-x3m.github.io/",
+    "thumbnail": "https://images.crazygames.com/moto-x3m/20210211135439/moto-x3m-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Racing"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "description": "Jump and fly your way through danger in this rhythm-based platformer.",
+    "url": "https://geometry-dash.io/",
+    "thumbnail": "https://images.crazygames.com/geometry-dash-online/20210211135439/geometry-dash-online-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Platformer"
+  },
+  {
+    "id": "subway-surfers",
+    "title": "Subway Surfers",
+    "description": "The world-famous endless runner. Dodge trains and escape the inspector!",
+    "url": "https://subway-surfers.io/",
+    "thumbnail": "https://images.crazygames.com/subway-surfers/20210211135439/subway-surfers-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Action"
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "description": "The original idle game about baking cookies.",
+    "url": "https://cookie-clicker.io/",
+    "thumbnail": "https://images.crazygames.com/cookie-clicker/20210211135439/cookie-clicker-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Idle"
+  },
+  {
+    "id": "shell-shockers",
+    "title": "Shell Shockers",
+    "description": "The world's most popular egg-based multiplayer shooter.",
+    "url": "https://shellshock.io/",
+    "thumbnail": "https://images.crazygames.com/shellshockers/20210211135439/shellshockers-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife",
+    "description": "Live a whole life from birth to death in this text-based life simulator.",
+    "url": "https://bitlifeonline.github.io/",
+    "thumbnail": "https://images.crazygames.com/bitlife-life-simulator/20210211135439/bitlife-life-simulator-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Simulation"
+  },
+  {
+    "id": "red-ball-4",
+    "title": "Red Ball 4",
+    "description": "Roll, jump and bounce through the deep forest!",
+    "url": "https://redball4.io/",
+    "thumbnail": "https://images.crazygames.com/red-ball-4/20210211135439/red-ball-4-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Platformer"
+  },
+  {
+    "id": "fnf",
+    "title": "Friday Night Funkin'",
+    "description": "The hit rhythm game where you rap-battle your way to your girlfriend's heart.",
+    "url": "https://fnf.io/",
+    "thumbnail": "https://images.crazygames.com/friday-night-funkin/20210211135439/friday-night-funkin-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Retro"
+  },
+  {
+    "id": "jetpack-joyride",
+    "title": "Jetpack Joyride",
+    "description": "Fly through a secret laboratory with a machine-gun jetpack!",
+    "url": "https://quackprep.org/class/jetpack-joyride",
+    "thumbnail": "https://images.crazygames.com/jetpack-joyride/20210211135439/jetpack-joyride-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Action"
+  },
+  {
+    "id": "super-mario-bros",
+    "title": "Super Mario Bros",
+    "description": "The original classic platformer that started it all.",
+    "url": "https://quackprep.org/class/super-mario-bros",
+    "thumbnail": "https://images.crazygames.com/super-mario-run/20210211135439/super-mario-run-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Retro"
+  },
+  {
+    "id": "rooftop-snipers",
+    "title": "Rooftop Snipers",
+    "description": "A chaotic two-player sniper game on a rooftop.",
+    "url": "https://quackprep.org/class/rooftop-snipers",
+    "thumbnail": "https://images.crazygames.com/rooftop-snipers/20210211135439/rooftop-snipers-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "pac-man",
+    "title": "Pac-Man",
+    "description": "The legendary arcade game. Eat dots and avoid ghosts!",
+    "url": "https://quackprep.org/class/pac-man",
+    "thumbnail": "https://images.crazygames.com/pacman/20210211135439/pacman-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Retro"
+  },
+  {
+    "id": "among-us",
+    "title": "Among Us",
+    "description": "Find the impostor before they eliminate the crew!",
+    "url": "https://quackprep.org/class/among-us",
+    "thumbnail": "https://images.crazygames.com/among-us/20210211135439/among-us-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "plants-vs-zombies",
+    "title": "Plants vs Zombies",
+    "description": "Defend your home from a zombie invasion with your plants!",
+    "url": "https://quackprep.org/class/plants-vs-zombies",
+    "thumbnail": "https://images.crazygames.com/plants-vs-zombies/20210211135439/plants-vs-zombies-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Action"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Drive a ball in the 3D world in Slope Game.",
+    "url": "https://slope-game.io/",
+    "thumbnail": "https://images.crazygames.com/slope/20210211135439/slope-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Racing"
+  },
+  {
+    "id": "1v1-lol",
+    "title": "1v1.LOL",
+    "description": "A competitive third-person shooter and building game.",
+    "url": "https://1v1.lol/",
+    "thumbnail": "https://images.crazygames.com/1v1-lol/20210211135439/1v1-lol-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "drift-hunters",
+    "title": "Drift Hunters",
+    "description": "A realistic drifting game with a wide range of cars.",
+    "url": "https://drift-hunters.io/",
+    "thumbnail": "https://images.crazygames.com/drift-hunters/20210211135439/drift-hunters-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Racing"
+  },
+  {
+    "id": "bloons-td-4",
+    "title": "Bloons TD 4",
+    "description": "The classic tower defense game with monkeys and balloons.",
+    "url": "https://bloons-td-4.io/",
+    "thumbnail": "https://images.crazygames.com/bloons-tower-defense-4/20210211135439/bloons-tower-defense-4-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Action"
+  },
+  {
+    "id": "smash-karts",
+    "title": "Smash Karts",
+    "description": "A multiplayer kart racing game with weapons.",
+    "url": "https://smashkarts.io/",
+    "thumbnail": "https://images.crazygames.com/smash-karts/20210211135439/smash-karts-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "paper-io-2",
+    "title": "Paper.io 2",
+    "description": "Conquer as much territory as possible in this multiplayer game.",
+    "url": "https://paper-io.com/",
+    "thumbnail": "https://images.crazygames.com/paper-io-2/20210211135439/paper-io-2-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "hole-io",
+    "title": "Hole.io",
+    "description": "Eat everything in sight as a black hole.",
+    "url": "https://hole-io.com/",
+    "thumbnail": "https://images.crazygames.com/hole-io/20210211135439/hole-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "skribbl-io",
+    "title": "Skribbl.io",
+    "description": "A multiplayer drawing and guessing game.",
+    "url": "https://skribbl.io/",
+    "thumbnail": "https://images.crazygames.com/skribblio/20210211135439/skribblio-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "krunker-io",
+    "title": "Krunker.io",
+    "description": "A fast-paced pixelated multiplayer first-person shooter.",
+    "url": "https://krunker.io/",
+    "thumbnail": "https://images.crazygames.com/krunker-io/20210211135439/krunker-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "slither-io",
+    "title": "Slither.io",
+    "description": "Grow your snake and dominate the arena.",
+    "url": "https://slither.io/",
+    "thumbnail": "https://images.crazygames.com/slitherio/20210211135439/slitherio-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "agar-io",
+    "title": "Agar.io",
+    "description": "Eat smaller cells and grow larger in this classic IO game.",
+    "url": "https://agar.io/",
+    "thumbnail": "https://images.crazygames.com/agario/20210211135439/agario-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "ev-io",
+    "title": "Ev.io",
+    "description": "A futuristic multiplayer FPS with special abilities.",
+    "url": "https://ev.io/",
+    "thumbnail": "https://images.crazygames.com/evio/20210211135439/evio-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "zombs-royale",
+    "title": "Zombs Royale",
+    "description": "A 2D battle royale game with fast-paced action.",
+    "url": "https://zombsroyale.io/",
+    "thumbnail": "https://images.crazygames.com/zombsroyaleio/20210211135439/zombsroyaleio-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "voxiom-io",
+    "title": "Voxiom.io",
+    "description": "A voxel-based multiplayer survival and building game.",
+    "url": "https://voxiom.io/",
+    "thumbnail": "https://images.crazygames.com/voxiomio/20210211135439/voxiomio-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "moomoo-io",
+    "title": "MooMoo.io",
+    "description": "Build a base and defend it from other players.",
+    "url": "https://moomoo.io/",
+    "thumbnail": "https://images.crazygames.com/moomooio/20210211135439/moomooio-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "diep-io",
+    "title": "Diep.io",
+    "description": "Upgrade your tank and destroy other players.",
+    "url": "https://diep.io/",
+    "thumbnail": "https://images.crazygames.com/diepio/20210211135439/diepio-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "little-alchemy-2",
+    "title": "Little Alchemy 2",
+    "description": "Combine elements to create new ones in this puzzle game.",
+    "url": "https://littlealchemy2.com/",
+    "thumbnail": "https://images.crazygames.com/little-alchemy-2/20210211135439/little-alchemy-2-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Idle"
+  },
+  {
+    "id": "happy-wheels",
+    "title": "Happy Wheels",
+    "description": "A physics-based obstacle course game with dark humor.",
+    "url": "https://totaljerkface.com/happy_wheels.tjf",
+    "thumbnail": "https://images.crazygames.com/happy-wheels/20210211135439/happy-wheels-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Action"
+  },
+  {
+    "id": "getaway-shootout",
+    "title": "Getaway Shootout",
+    "description": "Race to the getaway vehicle in this chaotic platformer.",
+    "url": "https://images.crazygames.com/getaway-shootout/20210211135439/getaway-shootout-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "thumbnail": "https://images.crazygames.com/getaway-shootout/20210211135439/getaway-shootout-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "bloxd-io",
+    "title": "Bloxd.io",
+    "description": "A Minecraft-style multiplayer game with various modes.",
+    "url": "https://bloxd.io/",
+    "thumbnail": "https://images.crazygames.com/bloxd-io/20210211135439/bloxd-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "shell-shockers-v2",
+    "title": "Shell Shockers",
+    "description": "The world's most popular egg-based multiplayer shooter.",
+    "url": "https://shellshock.io/",
+    "thumbnail": "https://images.crazygames.com/shellshockers/20210211135439/shellshockers-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "super-liquurn",
+    "title": "Super Liquurn",
+    "description": "A fast-paced platformer with unique mechanics.",
+    "url": "https://images.crazygames.com/super-liquurn/20210211135439/super-liquurn-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "thumbnail": "https://images.crazygames.com/super-liquurn/20210211135439/super-liquurn-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Platformer"
+  },
+  {
+    "id": "crossy-road",
+    "title": "Crossy Road",
+    "description": "Why did the chicken cross the road?",
+    "url": "https://crossyroad.com/",
+    "thumbnail": "https://images.crazygames.com/crossy-road/20210211135439/crossy-road-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Action"
+  },
+  {
+    "id": "tank-stars",
+    "title": "Tank Stars",
+    "description": "Choose the right weapon and win the tank battle!",
+    "url": "https://poki.com/en/g/tank-stars",
+    "thumbnail": "https://images.crazygames.com/tank-stars/20210211135439/tank-stars-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Action"
+  },
+  {
+    "id": "papas-pastaria",
+    "title": "Papa's Pastaria",
+    "description": "Cook and serve delicious pasta dishes in Portallini!",
+    "url": "https://poki.com/en/g/papas-pastaria",
+    "thumbnail": "https://images.crazygames.com/papas-pastaria/20210211135439/papas-pastaria-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Simulation"
+  },
+  {
+    "id": "fnaf-diddys",
+    "title": "Five Nights at Diddy's",
+    "description": "Can you survive five nights in this creepy place?",
+    "url": "https://gd.games/horizontalrotatinggames/fivenightsatdiddys",
+    "thumbnail": "https://picsum.photos/seed/diddys/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "fnaf-epsteins",
+    "title": "Five Nights at Epstein's",
+    "description": "A dark and mysterious survival horror game.",
+    "url": "https://fivenightsatepsteins.github.io/",
+    "thumbnail": "https://picsum.photos/seed/epsteins/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "hasbulla-antistress",
+    "title": "Hasbulla Antistress",
+    "description": "Relieve your stress with Hasbulla!",
+    "url": "https://www.y8.com/games/hasbulla_antistress",
+    "thumbnail": "https://picsum.photos/seed/hasbulla/400/300",
+    "category": "Idle"
+  },
+  {
+    "id": "kof-wing-ex",
+    "title": "The King of Fighters Wing EX",
+    "description": "Classic fighting action with legendary characters.",
+    "url": "https://www.y8.com/games/the_king_of_fighters_wing_ex",
+    "thumbnail": "https://picsum.photos/seed/kof/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "vikings-aggression",
+    "title": "Vikings Aggression",
+    "description": "Lead your viking army to victory!",
+    "url": "https://www.y8.com/games/vikings_aggression",
+    "thumbnail": "https://picsum.photos/seed/vikings/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "pokemon-emerald",
+    "title": "Pokemon Emerald",
+    "description": "The classic GBA Pokemon adventure in your browser.",
+    "url": "https://quackprep.org/class/pokemon-emerald",
+    "thumbnail": "https://picsum.photos/seed/pokemon/400/300",
+    "category": "Retro"
+  },
+  {
+    "id": "twerk-race-3d",
+    "title": "Twerk Race 3D",
+    "description": "A fun and wacky racing game.",
+    "url": "https://quackprep.org/class/twerk-race-3d",
+    "thumbnail": "https://picsum.photos/seed/twerk/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "charlie-steak",
+    "title": "Charlie the Steak",
+    "description": "Interact with Charlie the Steak in this funny game.",
+    "url": "https://www.y8.com/games/charlie_the_steak",
+    "thumbnail": "https://picsum.photos/seed/steak/400/300",
+    "category": "Idle"
+  },
+  {
+    "id": "darkness-spaceship",
+    "title": "Darkness in Spaceship",
+    "description": "Survive the darkness in a mysterious spaceship.",
+    "url": "https://www.y8.com/games/darkness_in_spaceship",
+    "thumbnail": "https://picsum.photos/seed/spaceship/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "zomblox",
+    "title": "Zomblox",
+    "description": "Blocky zombie survival action.",
+    "url": "https://www.y8.com/games/zomblox",
+    "thumbnail": "https://picsum.photos/seed/zomblox/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "robot-kiss",
+    "title": "Robot Kiss",
+    "description": "A cute robot-themed game.",
+    "url": "https://www.y8.com/games/robot_kiss",
+    "thumbnail": "https://picsum.photos/seed/robot/400/300",
+    "category": "Simulation"
+  },
+  {
+    "id": "giant-rush",
+    "title": "Giant Rush",
+    "description": "Grow your giant and smash obstacles!",
+    "url": "https://www.igre123.com/igra/giant-rush",
+    "thumbnail": "https://picsum.photos/seed/giant/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "zombies-vs-finger",
+    "title": "Zombies vs Finger",
+    "description": "Smash zombies with your finger!",
+    "url": "https://www.igre123.com/igra/zombies-vs-finger",
+    "thumbnail": "https://picsum.photos/seed/finger/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "bash-computer",
+    "title": "Bash the Computer",
+    "description": "Relieve your frustration by bashing the computer!",
+    "url": "https://www.igre123.com/igra/bash-the-computer",
+    "thumbnail": "https://picsum.photos/seed/computer/400/300",
+    "category": "Idle"
+  },
+  {
+    "id": "daddy-cactus",
+    "title": "Daddy Cactus",
+    "description": "A fun adventure with Daddy Cactus.",
+    "url": "https://www.igre123.com/igra/daddy-cactus",
+    "thumbnail": "https://picsum.photos/seed/cactus/400/300",
+    "category": "Platformer"
+  },
+  {
+    "id": "jelly-run-2048",
+    "title": "Jelly Run 2048",
+    "description": "Merge jellies and reach 2048 in this runner.",
+    "url": "https://www.igre123.com/igra/jelly-run-2048",
+    "thumbnail": "https://picsum.photos/seed/jelly/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "geodash-org",
+    "title": "GeoDash",
+    "description": "The ultimate rhythm-based platformer.",
+    "url": "https://geodash.org/",
+    "thumbnail": "https://picsum.photos/seed/geodash/400/300",
+    "category": "Platformer"
+  },
+  {
+    "id": "buildnow-gg",
+    "title": "BuildNow GG",
+    "description": "Build and fight in this competitive shooter.",
+    "url": "https://www.crazygames.com/game/buildnow-gg",
+    "thumbnail": "https://images.crazygames.com/buildnow-gg/20210211135439/buildnow-gg-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "brainrot-mega-parkour",
+    "title": "Brainrot Mega Parkour",
+    "description": "Insane parkour challenges for the ultimate brainrot experience.",
+    "url": "https://www.crazygames.com/game/brainrot-mega-parkour",
+    "thumbnail": "https://picsum.photos/seed/brainrot/400/300",
+    "category": "Platformer"
+  },
+  {
+    "id": "escape-portal",
+    "title": "Escape Portal",
+    "description": "Use portals to escape challenging levels.",
+    "url": "https://www.crazygames.com/game/escape-portal",
+    "thumbnail": "https://picsum.photos/seed/portal/400/300",
+    "category": "Puzzle"
+  },
+  {
+    "id": "fortzone-battle-royale",
+    "title": "Fortzone Battle Royale",
+    "description": "Survival of the fittest in this battle royale arena.",
+    "url": "https://www.crazygames.com/game/fortzone-battle-royale-xkd",
+    "thumbnail": "https://picsum.photos/seed/fortzone/400/300",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "subway-clash-2",
+    "title": "Subway Clash 2",
+    "description": "Fast-paced underground shooter action.",
+    "url": "https://www.crazygames.com/game/subway-clash-2",
+    "thumbnail": "https://images.crazygames.com/subway-clash-2/20210211135439/subway-clash-2-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Action"
+  },
+  {
+    "id": "max-vs-gangsters",
+    "title": "Max vs Gangsters",
+    "description": "Take down the criminal underworld.",
+    "url": "https://www.crazygames.com/game/max-vs-gangsters",
+    "thumbnail": "https://picsum.photos/seed/gangsters/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "gulag",
+    "title": "Gulag",
+    "description": "Can you survive the gulag?",
+    "url": "https://www.crazygames.com/game/gulag",
+    "thumbnail": "https://picsum.photos/seed/gulag/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "brutalmania-io",
+    "title": "BrutalMania.io",
+    "description": "A brutal arena combat game.",
+    "url": "https://www.crazygames.com/game/brutalmania-io",
+    "thumbnail": "https://images.crazygames.com/brutalmania-io/20210211135439/brutalmania-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "striker-dummies",
+    "title": "Striker Dummies",
+    "description": "Smash your opponent in this dummy combat game.",
+    "url": "https://www.crazygames.com/game/striker-dummies",
+    "thumbnail": "https://images.crazygames.com/striker-dummies/20210211135439/striker-dummies-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Action"
+  },
+  {
+    "id": "mystic-soccer",
+    "title": "Mystic Soccer",
+    "description": "Soccer with a mystical twist.",
+    "url": "https://www.crazygames.com/game/mystic-soccer",
+    "thumbnail": "https://picsum.photos/seed/soccer/400/300",
+    "category": "Sports"
+  },
+  {
+    "id": "beach-ball",
+    "title": "Beach Ball",
+    "description": "Fun in the sun with beach ball games.",
+    "url": "https://www.crazygames.com/game/beach-ball",
+    "thumbnail": "https://picsum.photos/seed/beachball/400/300",
+    "category": "Sports"
+  },
+  {
+    "id": "skillfite-io",
+    "title": "Skillfite.io",
+    "description": "Show off your skills in this multiplayer arena.",
+    "url": "https://www.crazygames.com/game/skillfite-io",
+    "thumbnail": "https://images.crazygames.com/skillfite-io/20210211135439/skillfite-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "subway-clash-remastered",
+    "title": "Subway Clash Remastered",
+    "description": "The classic underground shooter, now remastered.",
+    "url": "https://www.crazygames.com/game/subway-clash-remastered",
+    "thumbnail": "https://images.crazygames.com/subway-clash-remastered/20210211135439/subway-clash-remastered-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Action"
+  },
+  {
+    "id": "soccer-legends-2021",
+    "title": "Soccer Legends 2021",
+    "description": "Play with your favorite soccer legends.",
+    "url": "https://www.crazygames.com/game/soccer-legends-2021",
+    "thumbnail": "https://images.crazygames.com/soccer-legends-2021/20210211135439/soccer-legends-2021-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Sports"
+  },
+  {
+    "id": "stick-war",
+    "title": "Stick War",
+    "description": "Lead your stick army to conquer the world.",
+    "url": "https://www.crazygames.com/game/stick-war",
+    "thumbnail": "https://images.crazygames.com/stick-war/20210211135439/stick-war-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Action"
+  },
+  {
+    "id": "survev",
+    "title": "Survev",
+    "description": "Survive the arena in this fast-paced game.",
+    "url": "https://www.crazygames.com/game/survev",
+    "thumbnail": "https://picsum.photos/seed/survev/400/300",
+    "category": "Action"
+  },
+  {
+    "id": "jump-master-car-racing",
+    "title": "Jump Master Car Racing",
+    "description": "Insane car stunts and racing.",
+    "url": "https://www.crazygames.com/game/jump-master-car-racing-peo",
+    "thumbnail": "https://picsum.photos/seed/jumpmaster/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "dashcraft-io",
+    "title": "DashCraft.io",
+    "description": "Build your own tracks and race on them.",
+    "url": "https://www.crazygames.com/game/dashcraft-io",
+    "thumbnail": "https://images.crazygames.com/dashcraft-io/20210211135439/dashcraft-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Racing"
+  },
+  {
+    "id": "traffic-rider",
+    "title": "Traffic Rider",
+    "description": "Dodge traffic and reach high speeds on your bike.",
+    "url": "https://www.crazygames.com/game/traffic-rider-vvq",
+    "thumbnail": "https://picsum.photos/seed/trafficrider/400/300",
+    "category": "Racing"
+  },
+  {
+    "id": "dalgona-candy",
+    "title": "Dalgona Candy",
+    "description": "Try to carve out the shape without breaking the candy!",
+    "url": "https://games.crazygames.com/en_US/dalgona-candy-honeycomb-cookie-kam/index.html",
+    "thumbnail": "https://images.crazygames.com/dalgona-candy-honeycomb-cookie-kam/20210211135439/dalgona-candy-honeycomb-cookie-kam-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Simulation"
+  },
+  {
+    "id": "skillwarz",
+    "title": "Skillwarz",
+    "description": "A competitive multiplayer FPS.",
+    "url": "https://games.crazygames.com/en_US/skillwarz/index.html",
+    "thumbnail": "https://images.crazygames.com/skillwarz/20210211135439/skillwarz-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "zombie-land",
+    "title": "Zombie Land",
+    "description": "Survive the zombie apocalypse.",
+    "url": "https://games.crazygames.com/en_US/zombie-land/index.html",
+    "thumbnail": "https://images.crazygames.com/zombie-land/20210211135439/zombie-land-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Action"
+  },
+  {
+    "id": "unmatched-basketball",
+    "title": "Unmatched Basketball",
+    "description": "Show off your basketball skills.",
+    "url": "https://games.crazygames.com/en_US/unmatched-basketball/index.html",
+    "thumbnail": "https://images.crazygames.com/unmatched-basketball/20210211135439/unmatched-basketball-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Sports"
+  },
+  {
+    "id": "black-hole-idle",
+    "title": "Black Hole Idle",
+    "description": "Consume everything as a growing black hole.",
+    "url": "https://games.crazygames.com/en_US/black-hole-idle/index.html",
+    "thumbnail": "https://images.crazygames.com/black-hole-idle/20210211135439/black-hole-idle-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Idle"
+  },
+  {
+    "id": "hobo",
+    "title": "Hobo",
+    "description": "The classic Flash fighting game. Enact hobo revenge!",
+    "url": "https://games.crazygames.com/en_US/hobo/index.html?v=1.352",
+    "thumbnail": "https://images.crazygames.com/hobo/20210211135439/hobo-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Action"
+  },
+  {
+    "id": "bad-cat",
+    "title": "Bad Cat - Granny's Return",
+    "description": "Cause maximum chaos in Granny's house as a mischievous cat!",
+    "url": "https://games.crazygames.com/en_US/bad-cat---granny-s-return/index.html?v=1.352",
+    "thumbnail": "https://images.crazygames.com/bad-cat-grannys-return/20210211135439/bad-cat-grannys-return-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Simulation"
+  },
+  {
+    "id": "the-waitress",
+    "title": "The Waitress",
+    "description": "Serve customers promptly and clean up in this classic cafe game.",
+    "url": "https://games.crazygames.com/en_US/the-waitress/index.html?v=1.352",
+    "thumbnail": "https://images.crazygames.com/the-waitress/20210211135439/the-waitress-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Simulation"
+  },
+  {
+    "id": "teacher-simulator",
+    "title": "Teacher Simulator",
+    "description": "Mark exams and ensure the kids are on their best behavior.",
+    "url": "https://games.crazygames.com/en_US/teacher-simulator/index.html?v=1.352",
+    "thumbnail": "https://images.crazygames.com/teacher-simulator/20210211135439/teacher-simulator-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Simulation"
+  },
+  {
+    "id": "escape-prison-multiplayer",
+    "title": "Escape from Prison Multiplayer",
+    "description": "Escape from prison with your friends in this multiplayer adventure.",
+    "url": "https://games.crazygames.com/en_US/escape-from-prison-multiplayer/index.html",
+    "thumbnail": "https://images.crazygames.com/escape-from-prison-multiplayer/20230524101234/escape-from-prison-multiplayer-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "crazy-dummy-swing",
+    "title": "Crazy Dummy Swing Multiplayer",
+    "description": "Swing your dummy to victory in this multiplayer game.",
+    "url": "https://games.crazygames.com/en_US/crazy-dummy-swing-multiplayer/index.html",
+    "thumbnail": "https://images.crazygames.com/crazy-dummy-swing-multiplayer/20230524101234/crazy-dummy-swing-multiplayer-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "race-clicker",
+    "title": "Race Clicker Tap Tap Game",
+    "description": "Tap as fast as you can to win the race!",
+    "url": "https://games.crazygames.com/en_US/race-clicker-tap-tap-game/index.html",
+    "thumbnail": "https://images.crazygames.com/race-clicker-tap-tap-game/20230524101234/race-clicker-tap-tap-game-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Idle"
+  },
+  {
+    "id": "hazmob-fps",
+    "title": "Hazmob FPS Online Shooter",
+    "description": "A tactical online shooter with fast-paced action.",
+    "url": "https://games.crazygames.com/en_US/hazmob-fps-online-shooter/index.html",
+    "thumbnail": "https://images.crazygames.com/hazmob-fps-online-shooter/20230524101234/hazmob-fps-online-shooter-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "miniblox",
+    "title": "Miniblox",
+    "description": "A blocky multiplayer world for you to explore.",
+    "url": "https://games.crazygames.com/en_US/miniblox/index.html",
+    "thumbnail": "https://images.crazygames.com/miniblox/20230524101234/miniblox-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
+  },
+  {
+    "id": "growden-io",
+    "title": "Growden.io",
+    "description": "Grow your garden and defend it in this IO game.",
+    "url": "https://games.crazygames.com/en_US/grow-a-garden---growden-io/index.html",
+    "thumbnail": "https://images.crazygames.com/grow-a-garden---growden-io/20230524101234/grow-a-garden---growden-io-cover?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "category": "Multiplayer"
   }
 ]

@@ -24,6 +24,15 @@ db.exec(`
 `);
 
 db.exec(`
+  CREATE TABLE IF NOT EXISTS chat_messages (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    user_name TEXT NOT NULL,
+    message TEXT NOT NULL,
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+  )
+`);
+
+db.exec(`
   CREATE TABLE IF NOT EXISTS games (
     id TEXT PRIMARY KEY,
     title TEXT NOT NULL,
@@ -38,7 +47,7 @@ db.exec(`
 const gamesPath = path.join(__dirname, "src", "games.json");
 if (fs.existsSync(gamesPath)) {
   const initialGames = JSON.parse(fs.readFileSync(gamesPath, "utf8"));
-  const insert = db.prepare("INSERT OR IGNORE INTO games (id, title, description, url, thumbnail) VALUES (?, ?, ?, ?, ?)");
+  const insert = db.prepare("INSERT OR REPLACE INTO games (id, title, description, url, thumbnail) VALUES (?, ?, ?, ?, ?)");
   for (const game of initialGames) {
     insert.run(game.id, game.title, game.description, game.url, game.thumbnail);
   }
@@ -49,6 +58,16 @@ async function startServer() {
   const PORT = 3000;
 
   app.use(express.json());
+
+  const PROFANITY_LIST = ['fuck', 'nigger', 'shit', 'ass', 'bitch', 'dick', 'pussy'];
+  const filterProfanity = (text: string) => {
+    let filtered = text;
+    PROFANITY_LIST.forEach(word => {
+      const regex = new RegExp(word, 'gi');
+      filtered = filtered.replace(regex, '#'.repeat(word.length));
+    });
+    return filtered;
+  };
 
   // API Routes
   app.get("/api/games", (req, res) => {
@@ -75,9 +94,29 @@ async function startServer() {
         success: true, 
         user: { name: "AquaSprite", email: "admin@aquasprite.com", isAdmin: true } 
       });
+    } else if (username && password) {
+      // Normal login - just accept any username/password for now
+      res.json({ 
+        success: true, 
+        user: { name: username, email: `${username.toLowerCase()}@user.com`, isAdmin: false } 
+      });
     } else {
       res.status(401).json({ error: "Invalid credentials" });
     }
+  });
+
+  app.get("/api/chat", (req, res) => {
+    const messages = db.prepare("SELECT * FROM chat_messages ORDER BY created_at DESC LIMIT 50").all();
+    res.json(messages.reverse());
+  });
+
+  app.post("/api/chat", (req, res) => {
+    const { username, message } = req.body;
+    if (!username || !message) return res.status(400).json({ error: "Missing fields" });
+    
+    const filteredMessage = filterProfanity(message);
+    db.prepare("INSERT INTO chat_messages (user_name, message) VALUES (?, ?)").run(username, filteredMessage);
+    res.json({ success: true });
   });
 
   app.post("/api/comments", (req, res) => {
@@ -87,10 +126,12 @@ async function startServer() {
       return res.status(400).json({ error: "Missing required fields" });
     }
 
+    const filteredComment = filterProfanity(comment);
+
     const info = db.prepare(`
       INSERT INTO comments (game_id, user_name, user_email, rating, comment)
       VALUES (?, ?, ?, ?, ?)
-    `).run(gameId, userName, userEmail, rating, comment);
+    `).run(gameId, userName, userEmail, rating, filteredComment);
 
     res.json({ id: info.lastInsertRowid });
   });
